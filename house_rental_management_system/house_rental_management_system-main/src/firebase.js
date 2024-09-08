@@ -5,7 +5,7 @@ import { getStorage } from 'firebase/storage';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyDOEA8WxGjG9RvRN3GI6jkj8YgX2FHV2gc",
+    apiKey: "API_KEY",
     authDomain: "house-rental-system-d16a0.firebaseapp.com",
     projectId: "house-rental-system-d16a0",
     storageBucket: "house-rental-system-d16a0.appspot.com",

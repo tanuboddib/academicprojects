@@ -1,0 +1,15 @@
+.user_style{
+    display: flex;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 10px;
+    height: max-content;
+}
+
+.heading_style{
+    display: flex;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: 10px;
+    height: max-content;
+}
